@@ -14,7 +14,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## Roadmap
 
-![Roadmap](./Node.js-developer-roadmap.png)
+![Roadmap](./Nodejs-developer-roadmap.png)
 
 ## Resources
 
