@@ -14,7 +14,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## Roadmap
 
-![Roadmap](./Nodejs-developer-roadmap.png)
+![Roadmap](./Node.js-developer-roadmap.png)
 
 ## Resources
 
@@ -93,7 +93,13 @@ If you like or are using this project to learn or start your solution, please gi
 
    1. [Socket.IO](https://socket.io/)
 
-9. API Clients
+
+9. Typed Superset
+
+    1. [TypeScript](https://www.typescriptlang.org/)
+    2. [Flow](https://flow.org/)
+
+10. API Clients
 
     1. REST
        - [Request](https://github.com/request/request)
@@ -101,7 +107,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [Axios](https://github.com/axios/axios)
     2. [GraphQL](https://graphql.org/)
 
-10. Good to Know
+11. Good to Know
 
     - [Async.js](https://caolan.github.io/async/)
     - [PM2](http://pm2.keymetrics.io/)
@@ -111,7 +117,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Marked](https://marked.js.org/#/README.md#README.md)
     - [JSHint](https://github.com/jshint/jshint)
 
-11. Testing
+12. Testing
 
     1. Unit, Behavior, Integration Testing
        1. [Jest](https://jestjs.io/)
@@ -124,13 +130,13 @@ If you like or are using this project to learn or start your solution, please gi
        - [Selenium](https://help.crossbrowsertesting.com/selenium-testing/getting-started/javascript/)
        - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
-12. Task Scheduling
+13. Task Scheduling
 
     - [Agenda](https://github.com/agenda/agenda)
     - [Cronicle](https://github.com/jhuckaby/Cronicle)
     - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
     
-13. MicroServices
+14. MicroServices
 
     1. Message-Broker
        - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
@@ -141,7 +147,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [Distribus](https://distribus.com/)
        - [BusMQ](https://github.com/capriza/node-busmq)
 
-14. [Design-Patterns](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
+15. [Design-Patterns](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 
 
 ## Wrap Up
