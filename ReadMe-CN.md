@@ -5,6 +5,8 @@
 你可以在下面找到一张图，该图展示了你可以选取的路径及你想学习的库，从而成为一名 Node.js 开发者。“作为 Node.js 开发者，我接下来应该学习什么？”，我把这张图作为建议给每个问过我这一问题的人。
 
 * 语言: [:cn: 中文](ReadMe-CN.md) | [:uk: English](/ReadMe.md)
+* 作者：[Aliyr](https://github.com/aliyr)
+* 译者：[五月君](https://github.com/Q-Angelo)
 
 ## 免责声明
 
@@ -100,12 +102,12 @@
    1. [Socket.IO](https://socket.io/)
 
 
-9. Typed Superset
+9. JavaScript类型的超集
 
     1. [TypeScript](https://www.typescriptlang.org/)
     2. [Flow](https://flow.org/)
 
-10. API Clients
+10. API 客户端
 
     1. REST
        - [Request](https://github.com/request/request)
