@@ -152,6 +152,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [BusMQ](https://github.com/capriza/node-busmq)
 
 15. [Design-Patterns](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
+16. [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)
 
 
 ## Wrap Up
