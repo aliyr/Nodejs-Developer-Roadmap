@@ -156,6 +156,7 @@
        - [BusMQ](https://github.com/capriza/node-busmq)
 
 15. [设计模式](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
+16. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/)
 
 
 ## 总结
