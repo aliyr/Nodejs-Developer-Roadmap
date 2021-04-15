@@ -4,7 +4,7 @@
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
 
-* Language: [:cn: 中文](ReadMe-CN.md) | [:uk: English](/ReadMe.md) | [:pt: Português](/ReadMe-PT.md)
+- Language: [:cn: 中文](ReadMe-CN.md) | [:uk: English](/ReadMe.md) | [:pt: Português](/ReadMe-PT.md)
 
 ## Disclaimer
 
@@ -25,7 +25,7 @@ If you like or are using this project to learn or start your solution, please gi
    - [JavaScript](https://www.w3schools.com/js/)
    - [NPM](https://docs.npmjs.com/)
    - [Node.js](https://nodejs.org/en/docs/)
-   - ES6/ES7
+   - ECMAScript up to ES2020
 
 2. General Development Skills
 
@@ -33,6 +33,7 @@ If you like or are using this project to learn or start your solution, please gi
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
    - Read a few books about algorithms and data structures
+   - Clean code (https://www.w3schools.com/js/js_conventions.asp)
 
 3. Web Frameworks
 
@@ -42,7 +43,7 @@ If you like or are using this project to learn or start your solution, please gi
    4. [Nest.js](https://nestjs.com/)
    5. [Sails.js](https://sailsjs.com/)
    6. [Koa.js](https://koajs.com/)
-   7. [Loopback.js](https://loopback.io/)
+   7. [Loopback.io](https://loopback.io/)
    8. [egg.js](https://eggjs.org/en/index.html)
    9. [midway](https://midwayjs.org/midway/en/)
 
@@ -92,24 +93,23 @@ If you like or are using this project to learn or start your solution, please gi
    2. [Handlebars](https://handlebarsjs.com/)
    3. [EJS](https://ejs.co/)
    4. [Pug](https://pugjs.org/api/getting-started.html)
-   4. [Nunjunks.js](https://mozilla.github.io/nunjucks/)
+   5. [Nunjunks.js](https://mozilla.github.io/nunjucks/)
 8. Real-Time Communication
 
    1. [Socket.IO](https://socket.io/)
 
-
 9. Typed Superset
 
-    1. [TypeScript](https://www.typescriptlang.org/)
-    2. [Flow](https://flow.org/)
+   1. [TypeScript](https://www.typescriptlang.org/)
+   2. [Flow](https://flow.org/)
 
 10. API Clients
 
     1. REST
-       - [Request](https://github.com/request/request)
        - [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
        - [Axios](https://github.com/axios/axios)
     2. [GraphQL](https://graphql.org/)
+    3. [Authentication] (https://rapidapi.com/blog/api-glossary/api-authentication/#:~:text=Technically%2C%20Oauth%20is%20a%20technique,the%20form%20of%20a%20token.)
 
 11. Good to Know
 
@@ -139,7 +139,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Agenda](https://github.com/agenda/agenda)
     - [Cronicle](https://github.com/jhuckaby/Cronicle)
     - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
-    
+
 14. MicroServices
 
     1. Message-Broker
@@ -153,7 +153,6 @@ If you like or are using this project to learn or start your solution, please gi
 
 15. [Design-Patterns](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 16. [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)
-
 
 ## Wrap Up
 
