@@ -25,7 +25,7 @@ If you like or are using this project to learn or start your solution, please gi
    - [JavaScript](https://www.w3schools.com/js/)
    - [NPM](https://docs.npmjs.com/)
    - [Node.js](https://nodejs.org/en/docs/)
-   - ECMAScript up to ES2020
+   - [ECMAScript](https://www.w3schools.com/js/js_versions.asp)
 
 2. General Development Skills
 
@@ -109,7 +109,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
        - [Axios](https://github.com/axios/axios)
     2. [GraphQL](https://graphql.org/)
-    3. [Authentication] (https://rapidapi.com/blog/api-glossary/api-authentication/#:~:text=Technically%2C%20Oauth%20is%20a%20technique,the%20form%20of%20a%20token.)
+    3. [Authentication]
 
 11. Good to Know
 
