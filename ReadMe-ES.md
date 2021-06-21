@@ -8,7 +8,7 @@ Debajo usted puede encontrar un gráfico que demuestra los diferentes caminos a 
 
 ## Descargo de responsabilidad
 
-> El próposito de esta hoja de ruta es proveerles una idea sobre el panorama general. Esta le servirá de guía si está en duda sobre qué aprender a continuación, en lugar de elegir aquello que esté de moda. Usted debería de comprender por qué una herramienta sería más adecuada para algunos casos que la otra y recordar que moderno y de moda no siempre significa que sea lo más adecuado para el trabajo.
+> El propósito de esta hoja de ruta es proveerles una idea sobre el panorama general. Esta le servirá de guía si está en duda sobre qué aprender a continuación, en lugar de elegir aquello que esté de moda. Usted debería de comprender por qué una herramienta sería más adecuada para algunos casos que la otra y recordar que moderno y de moda no siempre significa que sea lo más adecuado para el trabajo.
 
 ## ¡Danos una estrella! :star:
 
@@ -157,7 +157,7 @@ Si le gusta o está utilizando este proyecto para aprender o iniciar su solució
 
 ## Conclusión
 
-Si considera que la hoja de ruta se podría mejorar, por favor cree un PR con las actualizaciones y envíelo. Además, continuaré mejorando esto, por lo que es posible que desee destacar este repositorio para volver a visitarlo en el futuro.
+Si considera que la hoja de ruta se podría mejorar, por favor cree un PR con las actualizaciones y envíelo. Además, continuaré mejorandolo, por lo que es posible que desee destacar este repositorio para volver a visitarlo en el futuro.
 
 Inspiración: [Hoja de ruta para convertirse en un desarrollador ASP.NET Core](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
