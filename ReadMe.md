@@ -119,7 +119,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Passport](http://www.passportjs.org/)
     - [Nodemailer](https://nodemailer.com/about/)
     - [Marked](https://marked.js.org/#/README.md#README.md)
-    - [Eslint](https://eslint.org/)
+    - [ESlint](https://eslint.org/)
 
 12. Testing
 
