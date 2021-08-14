@@ -1,6 +1,6 @@
 # Node.js Developer Roadmap
 
-> Roadmap to becoming a [Node.js](https://nodejs.org/en/) developer in 2019:
+> Roadmap to becoming a [Node.js](https://nodejs.org/en/) developer in 2021:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
 
