@@ -32,7 +32,7 @@ If you like or are using this project to learn or start your solution, please gi
    - Learn GIT, create a few repositories on GitHub, share your code with other people
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-   - Read a few books about algorithms and data structures
+   - Read a few books about algorithms and data structures (https://www.interviewbit.com/courses/programming/graph-data-structure-algorithms/)
    - Clean code (https://www.w3schools.com/js/js_conventions.asp)
 
 3. Web Frameworks
